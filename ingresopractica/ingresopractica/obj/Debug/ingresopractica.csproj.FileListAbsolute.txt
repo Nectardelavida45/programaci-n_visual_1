@@ -1,0 +1,10 @@
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\obj\Debug\ingresopractica.csproj.AssemblyReference.cache
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\obj\Debug\ingresopractica.Properties.Resources.resources
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\obj\Debug\ingresopractica.csproj.GenerateResource.cache
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\obj\Debug\ingresopractica.csproj.CoreCompileInputs.cache
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\bin\Debug\ingresopractica.exe.config
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\bin\Debug\ingresopractica.exe
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\bin\Debug\ingresopractica.pdb
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\obj\Debug\ingresopractica.exe
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\obj\Debug\ingresopractica.pdb
+C:\Users\Neftaly\source\repos\ingresopractica\ingresopractica\obj\Debug\ingresopractica.exe.config
